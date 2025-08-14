@@ -17,7 +17,9 @@ It works perfectly on macOS Monterey, Ventura, and Sonoma, supports both Apple S
 ## 📸 Overview  
 A quick look at key parts in action:  
 ![appcleaner-mac-interface-screenshot](https://github.com/user-attachments/assets/398044cd-8220-4bf5-9ad5-ac9ef02ef82e)
-<img width="1299" height="859" alt="appcleaner-mac-free-up-disk-space" src="https://github.com/user-attachments/assets/253a7c27-976f-45a2-9e72-86b2d6cd4aa2" />
+![appcleaner-mac-free-up-disk-space](https://github.com/user-attachments/assets/13cee3d6-ba2c-488d-b779-7584e39da8ff)
+
+
 
 
 ## 🎯 Key Features  
