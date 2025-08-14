@@ -15,10 +15,9 @@ It works perfectly on macOS Monterey, Ventura, and Sonoma, supports both Apple S
 ```
 ## 📸 Overview  
 A quick look at key parts in action:  
-- ![](![appcleaner-mac-interface-screenshot](https://github.com/user-attachments/assets/d548ca09-fd29-4ef0-97e5-b076cccec400)
-)  
-- ![](<img width="1299" height="859" alt="appcleaner-mac-free-up-disk-space" src="https://github.com/user-attachments/assets/e6e9227a-017d-4d52-98ce-6c76313f5204" />
-)  
+![appcleaner-mac-interface-screenshot](https://github.com/user-attachments/assets/398044cd-8220-4bf5-9ad5-ac9ef02ef82e)
+<img width="1299" height="859" alt="appcleaner-mac-free-up-disk-space" src="https://github.com/user-attachments/assets/253a7c27-976f-45a2-9e72-86b2d6cd4aa2" />
+
 
 ## 🎯 Key Features  
 ⚡️ **Complete App Removal**: Uninstalls applications and deletes all related files, caches, and preferences.  
